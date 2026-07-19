@@ -4,7 +4,7 @@
 
 An aspiring software developer passionate about creating practical and user-friendly applications. I enjoy transforming ideas into meaningful technology solutions while continuously improving my programming, problem-solving, and web development skills.
 
-🌐 Portfolio: 
+🌐 Portfolio: git@github.com:ashleikrystel-beep/ashleikrystel-beep.git
 
 ## 🎓 Education
 - Bachelor of Science in Information Technology
