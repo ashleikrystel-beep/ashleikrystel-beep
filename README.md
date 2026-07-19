@@ -11,29 +11,33 @@ An aspiring software developer passionate about creating practical and user-frie
 - Davao del Norte State College
 - Second Year Student
 
- 💻 Skills
+## 💻 Skills
 
-## Programming & Languages
+**Programming & Languages**
 
-- ☕ Java (Object-Oriented Programming)
-- 🐘 PHP (Server-Side Scripting)
-- 🌐 HTML & CSS (Web Development)
-- 🐍 Python (Basic Programming)
+- Java (Object-Oriented Programming)
+- PHP (Server-Side Scripting)
+- HTML & CSS (Web Development)
+- Python (Basic Programming)
 
-## Database
+**Database**
 
-- 🗄️ MySQL
-- 💾 Database Management
+- MySQL
+- Database Management
 
-## Design Tools
+**Design Tools**
 
-- 🎨 Figma
-- 🖌️ Canva
-- 🎬 CapCut
+- Figma
+- Canva
+- CapCut
 
 # 🏆 Affiliations & Achievements
- 🏛 Institute of Computing Local Student Government
-Board Member serving the student body through leadership, governance, and student-centered initiatives.
+- Institute of Computing -  Local Student Government
+Board Member (S.Y. 2025-2026, 2026-2027)
+
+- Dean's Lister (S.Y. 2024-2025, 2025-2026)
+
+- Set Treasurer BSIT 2-D (S.Y. 2024-2025)
 
 # 🚀 Projects
 
@@ -68,7 +72,7 @@ An integrated eco-tourism booking and sustainable land management system for Dav
 
 ## 🚑 Disaster Relief Goods Distribution System
 
-A disaster relief management system utilizing the **Knapsack Algorithm** to optimize the allocation and distribution of relief goods while maximizing available resources.
+A disaster relief management system utilizing the Knapsack Algorithm to optimize the allocation and distribution of relief goods while maximizing available resources.
 
 **Technologies Used**
 - Java
@@ -77,12 +81,12 @@ A disaster relief management system utilizing the **Knapsack Algorithm** to opti
 
 ---
 
-# 📫 Contact Me
+#  Contact Me
 
-📧 **Email:** ashleikrystel@gmail.com
+**Email:** ashleikrystel@gmail.com
 
-📱 **Phone:** +63 999 9372 656
+**Phone:** +63 999 9372 656
 
-🏫 **Institution:** Davao del Norte State College
+**Institution:** Davao del Norte State College
 
-📍 **Location:** Davao Region, Philippines
+**Location:** Davao Region, Philippines
